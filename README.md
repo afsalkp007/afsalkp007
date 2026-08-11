@@ -48,8 +48,6 @@ Contributed to apps with **5M+ downloads**, spanning roles from individual contr
 
 ## 🚀 Featured Projects
 
-*(No App Store portfolio yet — here's proof from the repos themselves.)*
-
 | Project | Highlights |
 | --- | --- |
 | [**StockPriceTracker**](https://github.com/afsalkp007/StockPriceTracker) | Real-time stock tracker · live WebSocket feeds, Sparkline charts, strict Clean Architecture, pure SwiftUI + structured concurrency |
