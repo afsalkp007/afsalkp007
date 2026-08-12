@@ -30,22 +30,6 @@ Contributed to apps with **5M+ downloads**, spanning roles from individual contr
 
 ---
 
-## 💼 Employment History
-
-| Company | Role | Period | Highlights |
-| --- | --- | --- | --- |
-| **Volindo** | Senior iOS Engineer / Architect | Apr 2024 – Present | Travel super-app · gRPC/Protobuf · MapKit itinerary planning · SwiftUI + Core Data booking flow |
-| **Abu Dhabi Digital Authority (TAMM)** | iOS Tech Lead | Oct 2022 – Sep 2023 | Government platform · VIPER architecture · technical roadmap & mentoring |
-| **Homebase** | Senior iOS Engineer (Remote, USA) | Feb 2022 – Oct 2022 | Biometric auth · Plaid SDK banking onboarding · ObjC → Swift MVVM-C migration |
-| **G42** | Senior iOS Developer | Nov 2021 – Feb 2022 | HealthierU telehealth app · Agora SDK video consultations · PayPal |
-| **Digital14** | Senior iOS Developer (Remote) | Aug 2020 – Sep 2021 | ALHOSN contact-tracing app · BLE, OAuth · scaled to 5M+ users |
-| **Ekar** | iOS Developer | Oct 2019 – May 2020 | Car-sharing app · Apple Pay via Checkout.com · cut crash rate 30% |
-| **ITForce Technology** | iOS Developer | Mar 2019 – Aug 2019 | SimplyChains real-estate app · Stripe payments, 0→1 delivery |
-| **Quadcircles Info Solutions** | iOS Developer | Dec 2016 – Dec 2018 | HiPay (BLE receipt printing), iGold (real-time rates), 2Mummy (e-commerce) |
-| **Cybraum** | iOS Developer | Jan 2013 – Oct 2016 | 8+ apps shipped incl. Zulekha Hospital, Diya Travels |
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Highlights |
