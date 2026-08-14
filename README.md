@@ -141,5 +141,5 @@ Contributed to apps with **5M+ downloads**, spanning roles from individual contr
 <p align="left">
   <a href="https://www.linkedin.com/in/afsal-mohamed-karingappara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:afsalkp.mohammed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://afsalkp007.github.io/afsal.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://afsalkp007.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
