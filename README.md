@@ -132,10 +132,7 @@ Worked on [**ALHOSN**](https://apps.apple.com/ae/app/alhosn-uae/id1505380329), t
 
 ## 📊 GitHub Stats
 
-![Afsal's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=afsalkp007&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=afsalkp007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css)
-
-![Streak](https://streak-stats.demolab.com/?user=afsalkp007&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=afsalkp007&theme=tokyonight&hide_border=true&v=2)
 
 ---
 
