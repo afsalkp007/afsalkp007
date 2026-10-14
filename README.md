@@ -1,32 +1,47 @@
 <h1 align="center">Hi 👋, I'm Mohammed Afsal</h1>
-<h3 align="center">Senior iOS Engineer · 12+ Years · Government-Scale, Fintech & Travel Apps · Dubai, UAE</h3>
+<h3 align="center">Senior iOS Engineer · 13+ Years · Government-Scale, Payments & Travel Apps · Dubai, UAE</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Senior+iOS+Engineer+%7C+Mobile+Architect;Swift+%2F+SwiftUI+%2F+UIKit+%2F+Combine;Government-Scale%3A+TAMM+%2C+ALHOSN+(5M%2B+users);Fintech%3A+Plaid+%2C+Stripe+%2C+PayPal+%2C+Apple+Pay;Real-Time%3A+Agora+%2C+gRPC%2FProtobuf;Exploring+AI+Agents+%26+RAG+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Senior+iOS+Engineer;Swift+%2F+SwiftUI+%2F+UIKit+%2F+Combine;Government-Scale%3A+TAMM+%2C+ALHOSN+(5M%2B+users);Payments%3A+Plaid+%2C+Stripe+%2C+PayPal+%2C+Apple+Pay;Real-Time%3A+Agora+%2C+gRPC%2FProtobuf;Exploring+AI+Agents+%26+RAG+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="#-about-me"><img src="https://komarev.com/ghpvc/?username=afsalkp007&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" /></a>
   <a href="#-about-me"><img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge&logo=github" /></a>
-  <a href="#-about-me"><img src="https://img.shields.io/badge/UAE-Golden%20Visa-D4AF37?style=for-the-badge&logo=uae" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Senior iOS Engineer with **12+ years** building and shipping mobile products across **government, travel, fintech, healthcare, and e-commerce** — based in **Dubai, UAE**, UAE Golden Visa holder.
+Senior iOS Engineer with **13+ years** building and shipping mobile products across **government, travel, healthcare, payments, and e-commerce** — based in **Dubai, UAE**.
 
-Contributed to apps with **5M+ downloads**, spanning roles from individual contributor to iOS Tech Lead. Deep expertise in **Swift, SwiftUI, UIKit, Combine, and Clean Architecture**, with production experience across **MVVM, VIPER, MVC, and VIP** patterns. Certified **iOS Lead Essentials** (Essential Developer Academy).
+Worked on [**ALHOSN**](https://apps.apple.com/ae/app/alhosn-uae/id1505380329), the UAE's official COVID-19 app used by **5M+ users**, spanning roles from individual contributor to iOS Tech Lead. Deep expertise in **Swift, SwiftUI, UIKit, Combine, and Swift Concurrency**, with production experience across **MVVM, VIPER, and MVC** patterns and **unit and integration testing**.
 
-- ✈️ Currently at **Volindo** — a travel super-app, working with **gRPC/Protobuf**, MapKit-driven itinerary planning, and SwiftUI/Combine
-- 🏛️ Led iOS architecture for **TAMM** (Abu Dhabi Digital Authority), a government services platform, on modular **VIPER**
-- 🩺 Scaled **ALHOSN** (UAE contact-tracing app) to **5M+ users** with BLE, OAuth, and performance/caching work
-- 💳 Fintech integrations across roles: **Plaid**, **Stripe**, **PayPal**, **Apple Pay / Checkout.com**
+- ✈️ Currently at [**Volindo**](https://volindo.com) — a travel super-app, working with **gRPC/Protobuf**, MapKit-driven itinerary planning, and SwiftUI/Combine; primary iOS pull-request reviewer
+- 🏛️ iOS Tech Lead on [**TAMM**](https://apps.apple.com/ae/app/tamm-abu-dhabi-government/id1435485576) (Abu Dhabi Digital Authority), a government services platform, hands-on within a modular **VIPER** architecture
+- 🩺 Built features of [**ALHOSN**](https://apps.apple.com/ae/app/alhosn-uae/id1505380329) (UAE's official COVID-19 app, used nationwide by **5M+ users**) — BLE BlueTrace, OAuth, digital signing, and performance/caching work
+- 💳 Payments integrations across roles: **Plaid**, **Stripe**, **PayPal**, **Apple Pay / Checkout.com**
 - 📡 Real-time systems: **Agora SDK** (video consultations), **gRPC/Protobuf**, **WebSocket**, **MultipeerConnectivity**
-- 🧑‍🏫 Mentored junior engineers, drove **TDD** adoption and Clean Architecture rollouts
+- 🧑‍🏫 Mentored a junior engineer at TAMM and added **TDD**-driven unit and integration test coverage to previously untested modules at Volindo
 - 🤖 Layering in **AI/LLM engineering** — using Claude Code, Cursor, GitHub Copilot, and Google Antigravity daily; exploring RAG and agentic tooling
-- 📍 Open to Senior / Lead / Architect iOS roles in the UAE
+- 📍 Open to Senior / Lead iOS roles in the UAE
+
+---
+
+## 📱 Shipped Apps
+
+| App | Role | Links |
+| --- | --- | --- |
+| **Volindo** | Senior iOS Engineer · travel super-app | [volindo.com](https://volindo.com) |
+| **TAMM** | iOS Tech Lead · Abu Dhabi Digital Authority · government services platform | [App Store](https://apps.apple.com/ae/app/tamm-abu-dhabi-government/id1435485576) |
+| **Homebase** | Senior iOS Engineer (Contract) · biometric auth, Plaid onboarding, Obj-C → Swift migration | [App Store](https://apps.apple.com/us/app/homebase-employee-scheduling/id871544379) |
+| **HealthierU** | Senior iOS Developer (Contract) · G42 · video consultations via Agora | [App Store](https://apps.apple.com/co/app/healthieru-llc/id1635719979?l=en) |
+| **ALHOSN UAE** | Senior iOS Developer · Digital14 · UAE's official COVID-19 app (5M+ users) | [App Store](https://apps.apple.com/ae/app/alhosn-uae/id1505380329) |
+| **Ekar** | iOS Developer · car-sharing · Apple Pay, 30% crash-rate reduction | [App Store](https://apps.apple.com/ae/app/ekar/id1068848847) |
+| **SimplyChains** | iOS Developer (Contract) · ITForce · real-estate app | [Website](http://www.itforce-tech.com/) |
+| **HiPay · iGold · 2Mummy** | iOS Developer · Quadcircles | [HiPay](https://itunes.apple.com/us/app/hi-pay/id1367360242?mt=8) · [iGold](https://apps.apple.com/in/app/igold-live-from-ponnus-online/id957105956) · [2Mummy](https://itunes.apple.com/sa/app/2mummy/id1356009352?mt=8) |
+| **Cybraum apps** | iOS Developer · 8+ apps | [Zulekha Hospital](https://itunes.apple.com/ae/app/zulekha-hospitals/id914494489?mt=8) · [Alexis Hospital](https://itunes.apple.com/us/app/alexis-hospital/id1149268945?mt=8) · [Zayed International Prize](https://apps.apple.com/in/app/zayed-international-prize/id969009603) · [Zayed Green Challenge](https://apps.apple.com/in/app/zayed-green-challenge/id1013437617) · [Diya Travels](https://apps.apple.com/ae/app/diya-travels/id1303466635) · [Al Hammadi Law](https://apps.apple.com/sg/app/al-hammadi-law/id1222227076) · [Pink Knights](https://apps.apple.com/us/app/pink-knights/id1289704219) · [Voice of Islam](https://apps.apple.com/sg/app/voice-of-islam/id1241849101) |
 
 ---
 
@@ -54,15 +69,14 @@ Contributed to apps with **5M+ downloads**, spanning roles from individual contr
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D6EFD?style=flat-square&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
-![SwiftData](https://img.shields.io/badge/SwiftData-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-8E44EF?style=flat-square&logo=swift&logoColor=white)
+![Swift Concurrency](https://img.shields.io/badge/Swift%20Concurrency-FA7343?style=flat-square&logo=swift&logoColor=white)
+![MapKit](https://img.shields.io/badge/MapKit-2396F3?style=flat-square&logo=apple&logoColor=white)
 ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat-square)
 ![Core Data](https://img.shields.io/badge/Core%20Data-4C8CBF?style=flat-square&logo=apple&logoColor=white)
-![CloudKit](https://img.shields.io/badge/CloudKit-2396F3?style=flat-square&logo=apple&logoColor=white)
 ![Core Bluetooth](https://img.shields.io/badge/Core%20Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
 ![AVFoundation](https://img.shields.io/badge/AVFoundation-000000?style=flat-square&logo=apple&logoColor=white)
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Architecture**
 
@@ -70,12 +84,10 @@ Contributed to apps with **5M+ downloads**, spanning roles from individual contr
 ![VIPER](https://img.shields.io/badge/VIPER-4B0082?style=flat-square)
 ![MVVM--C](https://img.shields.io/badge/MVVM--C-2E8B57?style=flat-square)
 ![MVC](https://img.shields.io/badge/MVC-2E8B57?style=flat-square)
-![MVP](https://img.shields.io/badge/MVP-2E8B57?style=flat-square)
 
 **Networking & APIs**
 
 ![REST](https://img.shields.io/badge/REST-009688?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Protobuf](https://img.shields.io/badge/Protobuf-3776AB?style=flat-square)
 ![WebSocket](https://img.shields.io/badge/WebSocket-black?style=flat-square&logo=websocket&logoColor=white)
@@ -85,7 +97,6 @@ Contributed to apps with **5M+ downloads**, spanning roles from individual contr
 ![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000000?style=flat-square&logo=apple-pay&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)
-![Braintree](https://img.shields.io/badge/Braintree-000000?style=flat-square)
 ![Plaid](https://img.shields.io/badge/Plaid-000000?style=flat-square&logo=plaid&logoColor=white)
 
 **Testing**
@@ -96,8 +107,6 @@ Contributed to apps with **5M+ downloads**, spanning roles from individual contr
 
 **CI/CD & Tooling**
 
-![Xcode Cloud](https://img.shields.io/badge/Xcode%20Cloud-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
 ![SPM](https://img.shields.io/badge/Swift%20Package%20Manager-FA7343?style=flat-square&logo=swift&logoColor=white)
