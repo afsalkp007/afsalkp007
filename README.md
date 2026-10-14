@@ -141,7 +141,7 @@ Worked on [**ALHOSN**](https://apps.apple.com/ae/app/alhosn-uae/id1505380329), t
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=afsalkp007&theme=tokyo-night&hide_border=true&area=true)
+[![Contribution Graph](https://ghchart.rshah.org/6E40C9/afsalkp007)](https://github.com/afsalkp007)
 
 ---
 
