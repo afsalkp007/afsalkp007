@@ -29,30 +29,29 @@ Built [**ALHOSN**](https://apps.apple.com/ae/app/alhosn-uae/id1505380329), the U
 
 ---
 
-## 📱 Shipped Apps
+## 🚀 Live Apps on the App Store
 
-| App | Role | Links |
-| --- | --- | --- |
-| **Volindo** | Senior iOS Engineer · travel super-app · XMPP chat | [volindo.com](https://volindo.com) |
-| **TAMM** | iOS Tech Lead · Abu Dhabi Digital Authority · government services platform | [App Store](https://apps.apple.com/ae/app/tamm-abu-dhabi-government/id1435485576) |
-| **Homebase** | Senior iOS Engineer (Contract) · biometric auth, Plaid onboarding, WebRTC chat, Obj-C → Swift migration | [App Store](https://apps.apple.com/us/app/homebase-employee-scheduling/id871544379) |
-| **ALHOSN UAE** | Senior iOS Developer · Digital14 · UAE's official COVID-19 app (5M+ users) | [App Store](https://apps.apple.com/ae/app/alhosn-uae/id1505380329) |
-| **Ekar** | iOS Developer · car-sharing (IoT-enabled fleet) · Apple Pay, 30% crash-rate reduction | [App Store](https://apps.apple.com/ae/app/ekar/id1068848847) |
-| **HiPay · iGold · 2Mummy** | iOS Developer · Quadcircles | [HiPay](https://itunes.apple.com/us/app/hi-pay/id1367360242?mt=8) · [iGold](https://apps.apple.com/in/app/igold-live-from-ponnus-online/id957105956) · [2Mummy](https://itunes.apple.com/sa/app/2mummy/id1356009352?mt=8) |
-| **Cybraum apps** | iOS Developer · 8+ apps | [Zulekha Hospital](https://itunes.apple.com/ae/app/zulekha-hospitals/id914494489?mt=8) · [Alexis Hospital](https://itunes.apple.com/us/app/alexis-hospital/id1149268945?mt=8) · [Zayed International Prize](https://apps.apple.com/in/app/zayed-international-prize/id969009603) · [Zayed Green Challenge](https://apps.apple.com/in/app/zayed-green-challenge/id1013437617) · [Diya Travels](https://apps.apple.com/ae/app/diya-travels/id1303466635) · [Al Hammadi Law](https://apps.apple.com/sg/app/al-hammadi-law/id1222227076) · [Pink Knights](https://apps.apple.com/us/app/pink-knights/id1289704219) · [Voice of Islam](https://apps.apple.com/sg/app/voice-of-islam/id1241849101) |
+Tap a name to open the app on the App Store (Volindo links to its website).
 
----
-
-## 🚀 Featured Projects
-
-| Project | Highlights |
-| --- | --- |
-| [**StockPriceTracker**](https://github.com/afsalkp007/StockPriceTracker) | Real-time stock tracker · live WebSocket feeds, Sparkline charts, strict Clean Architecture, pure SwiftUI + structured concurrency |
-| [**Conversational-AI-Mobile-App**](https://github.com/afsalkp007/Conversational-AI-Mobile-App) | SwiftUI conversational AI app · speech recognition, text-to-speech, OpenAI integration, modular architecture, unit tests + CI |
-| [**FlightMeal**](https://github.com/afsalkp007/FlightMeal) | In-flight meal ordering · real-time sync & local persistence via MultipeerConnectivity |
-| [**InstagramFeedCloneApp**](https://github.com/afsalkp007/InstagramFeedCloneApp) | Instagram feed clone · SwiftUI + MVVM |
-| [**WeatherApp**](https://github.com/afsalkp007/WeatherApp) | Weather app using the OpenWeatherMap API |
-| [**AudioRecorder**](https://github.com/afsalkp007/AudioRecorder) | Audio recorder built with AVFoundation |
+| App | What I built |
+| :---: | --- |
+| [**Volindo**](https://volindo.com) | Travel super-app · gRPC/Protobuf · MapKit itineraries · XMPP chat |
+| [**TAMM**](https://apps.apple.com/ae/app/tamm-abu-dhabi-government/id1435485576) | Abu Dhabi government services · Modular VIPER · iOS Tech Lead |
+| [**Homebase**](https://apps.apple.com/us/app/homebase-employee-scheduling/id871544379) | Workforce scheduling · Biometric auth · Plaid onboarding · WebRTC chat |
+| [**HealthierU**](https://apps.apple.com/co/app/healthieru-llc/id1635719979?l=en) | Healthcare · Appointment scheduling · Medical reports · Video consultations |
+| [**ALHOSN UAE**](https://apps.apple.com/ae/app/alhosn-uae/id1505380329) | UAE's official COVID-19 app · BLE BlueTrace · OAuth · 5M+ users |
+| [**Ekar**](https://apps.apple.com/ae/app/ekar/id1068848847) | Car-sharing · IoT-enabled fleet · Apple Pay · 30% crash-rate reduction |
+| [**HiPay**](https://itunes.apple.com/us/app/hi-pay/id1367360242?mt=8) | Mobile recharge · BLE receipt printing |
+| [**iGold**](https://apps.apple.com/in/app/igold-live-from-ponnus-online/id957105956) | Real-time gold rate listings |
+| [**2Mummy**](https://itunes.apple.com/sa/app/2mummy/id1356009352?mt=8) | Fish e-commerce & delivery platform |
+| [**Zulekha Hospital**](https://itunes.apple.com/ae/app/zulekha-hospitals/id914494489?mt=8) | Hospital app · Built & maintained at Cybraum |
+| [**Alexis Hospital**](https://itunes.apple.com/us/app/alexis-hospital/id1149268945?mt=8) | Hospital app · Built & maintained at Cybraum |
+| [**Zayed International Prize**](https://apps.apple.com/in/app/zayed-international-prize/id969009603) | Built & maintained at Cybraum |
+| [**Zayed Green Challenge**](https://apps.apple.com/in/app/zayed-green-challenge/id1013437617) | Built & maintained at Cybraum |
+| [**Diya Travels**](https://apps.apple.com/ae/app/diya-travels/id1303466635) | Travel app · Built & maintained at Cybraum |
+| [**Al Hammadi Law**](https://apps.apple.com/sg/app/al-hammadi-law/id1222227076) | Law firm app · Built & maintained at Cybraum |
+| [**Pink Knights**](https://apps.apple.com/us/app/pink-knights/id1289704219) | Built & maintained at Cybraum |
+| [**Voice of Islam**](https://apps.apple.com/sg/app/voice-of-islam/id1241849101) | Built & maintained at Cybraum |
 
 ---
 
